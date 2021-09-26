@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CucumberWebApp", "CucumberWebApp\CucumberWebApp.csproj", "{542A6C3B-0C73-4AB8-B38E-906A685F6E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWordService", "NumberToWordService\NumberToWordService.csproj", "{AF284247-9AF7-428C-8C24-7529A08B5037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542A6C3B-0C73-4AB8-B38E-906A685F6E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542A6C3B-0C73-4AB8-B38E-906A685F6E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542A6C3B-0C73-4AB8-B38E-906A685F6E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542A6C3B-0C73-4AB8-B38E-906A685F6E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF284247-9AF7-428C-8C24-7529A08B5037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF284247-9AF7-428C-8C24-7529A08B5037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF284247-9AF7-428C-8C24-7529A08B5037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF284247-9AF7-428C-8C24-7529A08B5037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {194944A4-AC04-4228-A58F-5DC9483B2361}
+	EndGlobalSection
+EndGlobal

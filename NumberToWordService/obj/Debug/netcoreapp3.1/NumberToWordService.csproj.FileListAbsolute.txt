@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\CucumberWebApp\NumberToWordService\bin\Debug\netcoreapp3.1\NumberToWordService.deps.json
+C:\Users\Admin\source\repos\CucumberWebApp\NumberToWordService\bin\Debug\netcoreapp3.1\NumberToWordService.dll
+C:\Users\Admin\source\repos\CucumberWebApp\NumberToWordService\bin\Debug\netcoreapp3.1\NumberToWordService.pdb
+C:\Users\Admin\source\repos\CucumberWebApp\NumberToWordService\obj\Debug\netcoreapp3.1\NumberToWordService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CucumberWebApp\NumberToWordService\obj\Debug\netcoreapp3.1\NumberToWordService.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CucumberWebApp\NumberToWordService\obj\Debug\netcoreapp3.1\NumberToWordService.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CucumberWebApp\NumberToWordService\obj\Debug\netcoreapp3.1\NumberToWordService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CucumberWebApp\NumberToWordService\obj\Debug\netcoreapp3.1\NumberToWordService.dll
+C:\Users\Admin\source\repos\CucumberWebApp\NumberToWordService\obj\Debug\netcoreapp3.1\NumberToWordService.pdb
